@@ -1,0 +1,7 @@
+{
+  "name": "web-programming",
+  "version": "1.0.0",
+  "scripts": {
+    "serve:week01": "npx http-server -p 8000"
+  }
+}
